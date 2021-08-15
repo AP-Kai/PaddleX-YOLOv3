@@ -198,4 +198,4 @@ PaddleX2.0快速上手-YOLOv3目标检测:[https://aistudio.baidu.com/aistudio/p
 
 > GitHub: [https://github.com/AP-Kai/AP-Kai](https://github.com/AP-Kai/AP-Kai)
 
-> AI Studio 链接：https://aistudio.baidu.com/aistudio/projectdetail/2285630?shared=1
+> 本项目 AI Studio 链接：https://aistudio.baidu.com/aistudio/projectdetail/2285630?shared=1
