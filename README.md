@@ -180,6 +180,10 @@ pdx.det.visualize(image_name, result, threshold=0.1, save_dir='./output/MobileNe
 
 本项目可十分钟跑通全流程，如在本地运行，请更换相对应的路径再运行。
 
+![visualize_orange_87](https://user-images.githubusercontent.com/77101860/129511544-83ec118d-92c8-4a12-af20-024e37e09e29.jpg)
+![visualize_mixed_24 (1)](https://user-images.githubusercontent.com/77101860/129511550-3ea1ba4d-405d-417f-8e8f-1905fc48ff2d.jpg)
+
+
 ## 五、总结与升华
 
 部分参考链接：
